@@ -1,0 +1,20 @@
+body{
+   background-color: aquamarine;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+h2{
+   color:rgb(255, 162, 0)
+}
+div{
+   text-align: center;
+   margin-top: 10%;
+   font-size: 20px;
+}
+button{
+   background-color:rgb(255, 162, 0);
+   font-size: 20px;
+   padding-left: 30px;
+   padding-right: 30px;
+   height: 7%;
+}
